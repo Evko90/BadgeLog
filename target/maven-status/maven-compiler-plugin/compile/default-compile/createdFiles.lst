@@ -1,0 +1,8 @@
+Server\DB\BadgeDB.class
+Server\Badge.class
+Server\EncodingFilter.class
+Server\Converter.class
+Server\DB\BadgeDataBase.class
+Server\Servlets\StudentServlet.class
+Server\DB\StudentDB.class
+Server\Servlets\BadgeServlet.class
